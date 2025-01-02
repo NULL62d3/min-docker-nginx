@@ -29,4 +29,4 @@ docker compose up
 ```
 
 ## Preview on your browser
-Open: http://localhost/
+Open: http://localhost:8080
